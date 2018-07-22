@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySocketDemo", "ProxySocketDemo\ProxySocketDemo.csproj", "{FB544A9F-924A-4F36-A987-B648A4E366DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySocket", "Org.Mentalis.Network.ProxySocket\ProxySocket.csproj", "{365A06B9-D818-456B-BF76-7CC41FFFAA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB544A9F-924A-4F36-A987-B648A4E366DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB544A9F-924A-4F36-A987-B648A4E366DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB544A9F-924A-4F36-A987-B648A4E366DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB544A9F-924A-4F36-A987-B648A4E366DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365A06B9-D818-456B-BF76-7CC41FFFAA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365A06B9-D818-456B-BF76-7CC41FFFAA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365A06B9-D818-456B-BF76-7CC41FFFAA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365A06B9-D818-456B-BF76-7CC41FFFAA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
